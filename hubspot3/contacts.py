@@ -114,6 +114,7 @@ class ContactsClient(BaseClient):
                     "associatedcompanyid",
                     "email_validity",
                     "phone",
+                    "inbound_response_time",
                 ],
             },
         )
